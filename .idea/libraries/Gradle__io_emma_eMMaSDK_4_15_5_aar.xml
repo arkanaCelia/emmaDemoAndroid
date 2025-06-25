@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.emma:eMMaSDK:4.15.5@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/8.11.1/transforms/a5976c2c03fe223d4873b3f765c274d1/transformed/eMMaSDK-4.15.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/8.11.1/transforms/a5976c2c03fe223d4873b3f765c274d1/transformed/eMMaSDK-4.15.5/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/8.11.1/transforms/a5976c2c03fe223d4873b3f765c274d1/transformed/eMMaSDK-4.15.5/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
